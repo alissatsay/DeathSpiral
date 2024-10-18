@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ant Simulation</title>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: black;
+    }
+    canvas {
+      display: block;
+    }
+
+    .startButton {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-39%, -50%);
+        width: 400px;
+        height: 80px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 25px;
+        border-style: none;
+        color: rgb(0, 0, 0);
+        font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .startButton:hover {
+        background-color: rgb(66, 91, 235);
+    }
+  </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="ant.js"></script>    <!-- Load Ant class -->
+    <script src="lightbulb.js"></script>  <!-- Load Light class -->
+    <script src="ants.js"></script> <!-- Load main sketch that uses Ant and Light -->
+</body>
+</html>
