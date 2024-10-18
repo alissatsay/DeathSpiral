@@ -8,7 +8,7 @@ The Death Spiral Animation is an interactive, web-based project that simulates a
 # Usage
 - Press the button to start the animation.
 - Click on the screen to add new ants to the swarm.
-[Click here to view the live demo](https://<your-username>.github.io/<your-repo>/)
+[Click here to view the live demo](https://alissatsay.github.io/DeathSpiralAnimation/)
 
 # License
 This project is licensed under the [MIT License](LICENSE).
