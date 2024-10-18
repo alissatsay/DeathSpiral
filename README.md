@@ -1,22 +1,14 @@
 # Death Spiral Animation
-This project utilizes Processing to create a short animation of a mesmerizing natural phenomenon called Death Spiral. It occurs when one ant gets lost, and in an attempt to find a path back to an anthill finds only his old path and follows it in circles. The rest of the ants follow the first one, and eventually, they all die of exhaustion.
+The Death Spiral Animation is an interactive, web-based project that simulates ants forming a death spiral around a light source. In nature, a Death Spiral occurs when one ant gets lost, and in an attempt to find a path back to an anthill finds only his old path and follows it in circles. The rest of the ants follow the first one, and eventually, they all die of exhaustion.
 
 # Table of Contents
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
-# Installation
-Clone the repository:
-```bash
- git clone https://github.com/alissatsay/DeathSpiralAnimation.git
-```
-
 # Usage
-To run the project, use the following command:
-```bash
-npm start
-```
+- Press the button to start the animation.
+- Click on the screen to add new ants to the swarm.
+[Click here to view the live demo](https://<your-username>.github.io/<your-repo>/)
 
 # License
 This project is licensed under the [MIT License](LICENSE).
