@@ -1,8 +1,6 @@
 # Death Spiral Animation
 The Death Spiral Animation is an interactive, web-based project that simulates ants forming a death spiral around a light source. In nature, a Death Spiral occurs when one ant gets lost, and in an attempt to find a path back to an anthill finds only his old path and follows it in circles. The rest of the ants follow the first one, and eventually, they all die of exhaustion.
 
-Full animation takes 20 minutes, so this repo also contains screenshots of the animation at different stages of completion.
-
 # Table of Contents
 - [Usage](#usage)
 - [Project Details](#project-details)
